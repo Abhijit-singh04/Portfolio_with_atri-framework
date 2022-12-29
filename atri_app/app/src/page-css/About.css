@@ -1,0 +1,168 @@
+.p-About.Div307 {
+display: block;
+width: ;
+outline-width: px;
+outline-offset: px;
+outline-color: ;
+background-position-y: ;
+position: absolute;
+background-origin: content-box;
+left: 40px;
+right: 40px;
+float: none;
+background-color: ;
+height: 80px;
+align-self: flex-end;
+margin-left: 2px;
+}
+.p-About.Div147 {
+height: 700px;
+margin-left: ;
+margin-right: ;
+margin-top: 120px;
+}
+.p-About.Flex28 {
+display: flex;
+height: 200px;
+justify-content: space-between;
+}
+.p-About.Div148 {
+width: 400px;
+}
+.p-About.Div149 {
+width: 500px;
+}
+.p-About.Flex29 {
+display: flex;
+height: 450px;
+column-gap: 20px;
+}
+.p-About.Div150 {
+width: 28%;
+}
+.p-About.Div151 {
+width: 40%;
+}
+.p-About.Flex30 {
+display: flex;
+width: 26%;
+flex-direction: column;
+justify-content: space-between;
+}
+.p-About.Div153 {
+height: 47%;
+width: 100%;
+}
+.p-About.Div156 {
+height: 47%;
+width: 100%;
+}
+.p-About.Flex81 {
+display: flex;
+width: ;
+height: 40px;
+flex-direction: row;
+align-items: center;
+justify-content: flex-start;
+align-content: center;
+box-sizing: border-box;
+position: relative;
+float: right;
+margin-top: 20px;
+margin-bottom: 20px;
+column-gap: 50px;
+row-gap: ;
+margin-left: ;
+}
+.p-About.Flex82 {
+display: flex;
+justify-content: center;
+align-items: center;
+align-content: center;
+width: 50px;
+height: 40px;
+top: 20px;
+bottom: 20px;
+float: left;
+position: absolute;
+left: 12px;
+}
+.p-About.TextBox185 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 30px;
+color: #ffb89c;
+}
+.p-About.TextBox186 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+text-align: left;
+font-size: 60px;
+position: relative;
+top: 18px;
+}
+.p-About.TextBox187 {
+position: relative;
+top: 0;
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 25px;
+color: #8d8a8a;
+line-height: 34px;
+}
+.p-About.Image35 {
+width: 100%;
+height: 100%;
+}
+.p-About.Image36 {
+width: 100%;
+height: 100%;
+}
+.p-About.Image38 {
+width: 100%;
+height: 100%;
+}
+.p-About.Image37 {
+width: 100%;
+height: 100%;
+}
+.p-About.Image81 {
+right: 40px;
+position: relative;
+}
+.p-About.TextBox330 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+cursor: pointer;
+font-size: 20px;
+width: ;
+}
+.p-About.TextBox331 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+cursor: pointer;
+font-size: 20px;
+}
+.p-About.TextBox332 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+cursor: pointer;
+font-size: 20px;
+}
+.p-About.TextBox333 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+font-size: 20px;
+cursor: pointer;
+}
+.p-About.TextBox334 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+cursor: pointer;
+font-size: 20px;
+}
+.p-About.Image82 {
+max-width: 50px;
+max-height: 50px;
+cursor: pointer;
+}

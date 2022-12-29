@@ -1,0 +1,344 @@
+.p-blog.Div327 {
+display: block;
+width: ;
+outline-width: px;
+outline-offset: px;
+outline-color: ;
+background-position-y: ;
+position: absolute;
+background-origin: content-box;
+left: 40px;
+right: 40px;
+float: none;
+background-color: ;
+height: 80px;
+align-self: flex-end;
+}
+.p-blog.Flex90 {
+display: flex;
+width: ;
+height: 40px;
+flex-direction: row;
+align-items: center;
+justify-content: flex-start;
+align-content: center;
+box-sizing: border-box;
+position: relative;
+float: right;
+margin-top: 20px;
+margin-bottom: 20px;
+column-gap: 50px;
+row-gap: ;
+margin-left: ;
+}
+.p-blog.Flex91 {
+display: flex;
+justify-content: center;
+align-items: center;
+align-content: center;
+width: 50px;
+height: 40px;
+top: 20px;
+bottom: 20px;
+float: left;
+position: absolute;
+left: 12px;
+}
+.p-blog.Div336 {
+top: 100px;
+position: relative;
+background-color: #000000;
+height: 700px;
+}
+.p-blog.Flex95 {
+display: flex;
+height: 600px;
+color: #b5b1b1;
+background-color: #000000;
+justify-content: space-between;
+align-content: center;
+left: 40px;
+right: 40px;
+position: relative;
+overflow: scroll;
+min-height: %;
+width: 90%;
+top: 40px;
+}
+.p-blog.Div343 {
+height: 250px;
+width: 30%;
+position: sticky;
+float: left;
+}
+.p-blog.Div344 {
+width: 60%;
+overflow: scroll;
+}
+.p-blog.Flex94 {
+display: flex;
+height: ;
+overflow: scroll;
+flex-direction: column;
+row-gap: 12px;
+column-gap: 12px;
+position: relative;
+top: 38px;
+}
+.p-blog.Div337 {
+background-color: #000000;
+height: 180px;
+color: #000000;
+border-bottom-color: #aca9a9ff;
+border-bottom-width: 2px;
+border-bottom-style: solid;
+top: 12px;
+cursor: pointer;
+}
+.p-blog.Div338 {
+background-color: #000000;
+height: 180px;
+color: #000000;
+border-bottom-color: #9d9999;
+border-bottom-width: 2px;
+border-bottom-style: solid;
+border-width: ;
+border-style: solid;
+cursor: pointer;
+}
+.p-blog.Div339 {
+background-color: #000000;
+height: 180px;
+color: #000000;
+border-bottom-color: #c2c2c2ff;
+border-bottom-width: 2px;
+border-bottom-style: solid;
+cursor: pointer;
+}
+.p-blog.Div340 {
+background-color: #000000;
+height: 180px;
+color: #000000;
+border-bottom-color: #c2c2c2ff;
+border-bottom-width: 2px;
+border-bottom-style: solid;
+cursor: pointer;
+}
+.p-blog.Div341 {
+background-color: #000000;
+height: 180px;
+color: #000000;
+border-bottom-color: #c2c2c2ff;
+border-bottom-width: 2px;
+border-bottom-style: solid;
+cursor: pointer;
+}
+.p-blog.Div342 {
+background-color: #000000;
+height: 180px;
+color: #000000;
+border-bottom-color: #c2c2c2;
+border-bottom-width: 2px;
+border-bottom-style: solid;
+cursor: pointer;
+}
+.p-blog.Image95 {
+right: 40px;
+position: relative;
+}
+.p-blog.TextBox381 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+cursor: pointer;
+font-size: 20px;
+width: ;
+}
+.p-blog.TextBox382 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+cursor: pointer;
+font-size: 20px;
+}
+.p-blog.TextBox383 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+cursor: pointer;
+font-size: 20px;
+}
+.p-blog.TextBox384 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+font-size: 20px;
+cursor: pointer;
+}
+.p-blog.TextBox385 {
+font-family: IBM Plex Sans;
+font-weight: 500;
+cursor: pointer;
+font-size: 20px;
+}
+.p-blog.Image96 {
+max-width: 50px;
+max-height: 50px;
+cursor: pointer;
+}
+.p-blog.TextBox425 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 30px;
+color: #ffb89c;
+left: 3px;
+position: relative;
+top: 30px;
+width: 300px;
+}
+.p-blog.TextBox426 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 38px;
+color: #ffffff;
+position: relative;
+top: 40px;
+width: 300px;
+}
+.p-blog.TextBox427 {
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 24px;
+color: #ffffff;
+position: relative;
+top: 60px;
+width: 300px;
+}
+.p-blog.TextBox407 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 30px;
+top: 25px;
+position: relative;
+color: #ffffff;
+}
+.p-blog.TextBox408 {
+font-family: IBM Plex Sans;
+color: #d8d8d8;
+background-color: #000000;
+}
+.p-blog.TextBox409 {
+color: #ffffff;
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+position: relative;
+top: 40px;
+}
+.p-blog.TextBox410 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 30px;
+top: 25px;
+position: relative;
+color: #ffffff;
+}
+.p-blog.TextBox411 {
+font-family: IBM Plex Sans;
+color: #d8d8d8;
+background-color: #000000;
+}
+.p-blog.TextBox412 {
+color: #ffffff;
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+position: relative;
+top: 40px;
+}
+.p-blog.TextBox413 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 30px;
+top: 25px;
+position: relative;
+color: #ffffff;
+}
+.p-blog.TextBox414 {
+font-family: IBM Plex Sans;
+color: #d8d8d8;
+background-color: #000000;
+}
+.p-blog.TextBox415 {
+color: #ffffff;
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+position: relative;
+top: 40px;
+}
+.p-blog.TextBox416 {
+color: #ffffff;
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+position: relative;
+top: 40px;
+}
+.p-blog.TextBox417 {
+font-family: IBM Plex Sans;
+color: #d8d8d8;
+background-color: #000000;
+}
+.p-blog.TextBox418 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 30px;
+top: 25px;
+position: relative;
+color: #ffffff;
+}
+.p-blog.TextBox419 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 30px;
+top: 25px;
+position: relative;
+color: #ffffff;
+border-bottom-style: solid;
+border-bottom-width: 0px;
+border-bottom-color: #999797;
+}
+.p-blog.TextBox420 {
+font-family: IBM Plex Sans;
+color: #d8d8d8;
+background-color: #000000;
+}
+.p-blog.TextBox421 {
+color: #ffffff;
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+position: relative;
+top: 40px;
+}
+.p-blog.TextBox422 {
+color: #ffffff;
+font-family: IBM Plex Sans;
+font-weight: 400;
+font-size: 20px;
+position: relative;
+top: 40px;
+}
+.p-blog.TextBox423 {
+font-family: IBM Plex Sans;
+color: #d8d8d8;
+background-color: #000000;
+}
+.p-blog.TextBox424 {
+font-family: IBM Plex Sans;
+font-weight: 700;
+font-size: 30px;
+top: 25px;
+position: relative;
+color: #ffffff;
+border-bottom-style: solid;
+border-bottom-width: 0px;
+border-bottom-color: #999797;
+}
